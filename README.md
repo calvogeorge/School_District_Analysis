@@ -50,8 +50,31 @@ When we compare the scores and passing percentage for Thomas High School, in the
 
 
 
-#### 4 **How does replacing the ninth-grade scores affect the following: (Math and reading scores by grade, scores by school spending, scores by school size, scores by school type)**
+#### 4. **How does replacing the ninth-grade scores affect the following: (Math and reading scores by grade, scores by school spending, scores by school size, scores by school type)**
 
+Replacing the sthe ninth grade students score had litte to no impact of the overall scores, this suggest that the Thomas High School 9th grade students are not either enought to impact the overall scores or that their scores were in line with the general student population scores.
+below are the different tables:
+
+**Table 4.1 Overall Scores by Grade**
+
+![Overall_Score_By_Grade](https://github.com/calvogeorge/School_District_Analysis/blob/f60278e9c7e0f1bad429b6f8b1e14dbaeb5f374b/Resources/math_reading_scores_by_grade.png "Overall Scores by Grade")
+
+
+**Table 4.2 Scores By School Spending**
+![School_by_budget](https://github.com/calvogeorge/School_District_Analysis/blob/f60278e9c7e0f1bad429b6f8b1e14dbaeb5f374b/Resources/scores_by_school_spending.png "Scores By School Spending")
+
+
+**Table 4.3 Scores By School Size**
+![School_by_size](https://github.com/calvogeorge/School_District_Analysis/blob/f60278e9c7e0f1bad429b6f8b1e14dbaeb5f374b/Resources/scores_by_school_size.png "Scores By School Size")
+
+
+**Table 4.3 Scores By School Type**
+![School_by_type](https://github.com/calvogeorge/School_District_Analysis/blob/f60278e9c7e0f1bad429b6f8b1e14dbaeb5f374b/Resources/scores_by_school_type.png "Score By School Type")
+
+
+## Summary
+
+Since there very changes to the overall scores and the scores for the 9th grade students seem to be in line to the scores of the general student population, the data is not supporting the academic dishonesty. The overall passing percentage was also not altered in a significant way for Thomas High School, which suggest the 9th grade students had a similar pass/fail rate as the rest of the school. In conclusion, unless there is additional evidence of academic dishonesty, the 9th grade students scores should be restored.
 
 
 
